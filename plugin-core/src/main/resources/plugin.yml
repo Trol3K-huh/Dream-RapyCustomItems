@@ -1,0 +1,7 @@
+main: "cc.dreamcode.customitems.TemplatePlugin"
+version: "1.0-InDEV"
+name: "Dream-RapyCustomItems"
+description: "Plugin został wykonany na szablonie Dreamcode-Template"
+website: "https://dreamcode.cc"
+author: "author"
+api-version: 1.16
